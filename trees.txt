@@ -3,3 +3,4 @@ pine
 cedar
 olive
 cherry
+walnut
