@@ -2,3 +2,4 @@ none
 hidden
 dotted
 dashed
+solid
